@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
 C:\Users\ishu\Desktop\Spring-MVC_Demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1935564156.index
 \spring-mvc-demo\src\main\java
+C:\Users\ishu\Desktop\Spring-mvc\spring-mvc-demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1935564156.index
+\spring-mvc-demo\src\main\java
