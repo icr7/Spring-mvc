@@ -1,5 +1,0 @@
-package com.icr7.springdemo.mvc;
-
-public class HomeController {
-
-}
